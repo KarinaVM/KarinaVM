@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarinaVM
 - 👀 I’m starting to learn software development
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently learning SQL and UML
 - 📫 How to reach me TG @koozenka
 
 <!---
